@@ -1,4 +1,17 @@
 # Το αρχείο N-Triples με τα δεδομένα του ωρολογίου προγράμματος
 # και τις δηλώσεις rdf:type για κάθε οντότητα.
+_:0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/lavranou/vocab#Lecture> . 
+_:1 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/lavranou/vocab#Lecture> . 
+<http://dilab77.ionio.gr/swp/lavranou/resource/Mylonas> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/lavranou/vocab#Teacher> . 
+<http://dilab77.ionio.gr/swp/lavranou/resource/pms> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/lavranou/vocab#Room> . 
+_:2 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/lavranou/vocab#Lecture> . 
+<http://dilab77.ionio.gr/swp/lavranou/resource/Pateli> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/lavranou/vocab#Teacher> . 
+<http://dilab77.ionio.gr/swp/lavranou/resource/epixirimatikotita> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/lavranou/vocab#Course> . 
+_:3 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/lavranou/vocab#Lecture> . 
+<http://dilab77.ionio.gr/swp/lavranou/resource/Avlonitis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/lavranou/vocab#Teacher> . 
+<http://dilab77.ionio.gr/swp/lavranou/resource/prosomoiosi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/lavranou/vocab#Course> . 
+_:4 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/lavranou/vocab#Lecture> . 
+<http://dilab77.ionio.gr/swp/lavranou/resource/Vlamos> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/lavranou/vocab#Teacher> . 
+<http://dilab77.ionio.gr/swp/lavranou/resource/pliroforiki%20ekpaideysi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://dilab77.ionio.gr/swp/lavranou/vocab#Course> . 
 
 
