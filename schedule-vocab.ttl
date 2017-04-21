@@ -12,6 +12,14 @@ vocab:Lecture rdf:type rdfs:Class .
 vocab:Teacher rdfs:subClassOf foaf:Person .
 
 
+vocab:MATHIMA rdf:type rdf:Property .
+vocab:KATHIGITIS rdf:type rdf:Property .
+vocab:AITHOUSA rdf:type rdf:Property .
+vocab:EXAMINO rdf:type rdf:Property .
+vocab:ORA%20ENARXIS rdf:type rdf:Property .
+vocab:ORA%20LIXIS rdf:type rdf:Property .
+vocab:MERA rdf:type rdf:Property .
+
 vocab:MATHIMA rdfs:domain vocab:Lecture .
 vocab:KATHIGITIS rdfs:domain vocab:Lecture .
 vocab:AITHOUSA rdfs:domain vocab:Lecture .
